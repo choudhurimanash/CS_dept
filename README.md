@@ -1,3 +1,15 @@
+Firstly install Node.js on your computer (https://nodejs.org/en/download/).
+Node.js is a javascript runtime which is helps to execute js without browser.
+
+Secondly install React Developer Tools extensions on your chrome browser (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US)
+
+Thirdly install VS code extension:-
+ ES7 React/Redux/GraphQL/React_Native Snippest.
+ 
+ After that, in the project directory you can run:
+ 
+ ### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
