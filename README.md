@@ -4,7 +4,7 @@ Node.js is a javascript runtime which is helps to execute js without browser.
 Secondly install React Developer Tools extensions on your chrome browser (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US)
 
 Thirdly install VS code extension:-
- ES7 React/Redux/GraphQL/React_Native Snippest.
+ `ES7 React/Redux/GraphQL/React_Native Snippest`.
  
  After that, in the project directory you can run:
  
