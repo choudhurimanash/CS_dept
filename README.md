@@ -1,4 +1,4 @@
-Firstly install Node.js on your computer (https://nodejs.org/en/download/).
+Firstly install `Node.js` on your computer (https://nodejs.org/en/download/).
 Node.js is a javascript runtime which is helps to execute js without browser.
 
 Secondly install React Developer Tools extensions on your chrome browser (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en-US)
